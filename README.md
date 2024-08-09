@@ -42,4 +42,5 @@ pip install mysql-connector-python pandas matplotlib
 4. Visualize Results: Create visualizations using Matplotlib or similar libraries.
 
 **Contributing**
+
 Feel free to submit issues or pull requests if you have suggestions for improvements.
