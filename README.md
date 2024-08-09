@@ -1,4 +1,4 @@
-##Project Overview
+**Project Overview**
 This project involves analyzing employee data from the Employees database using SQL and Python with Pandas. The analysis includes retrieving, processing, and visualizing data to gain insights into employee hiring trends, salary information, and job positions.
 
 ##Repository Contents
